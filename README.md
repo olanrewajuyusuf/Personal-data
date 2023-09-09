@@ -30,4 +30,4 @@ Develop and host a web page using HTML, CSS and JS that showcases specific perso
 
 # Link
 
-[Source code](https://github.com/Wallewdev/Frontend-Page-Creation-with-Specific-Elements)
+[Source code](https://github.com/Wallewdev/Personal-Data)
